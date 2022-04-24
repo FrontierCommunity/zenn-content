@@ -4,7 +4,7 @@ emoji: "🙌"
 type: "idea"
 topics:
   ["techblog", "javascript", "コミュニティ", "エンジニア", "フロントエンド"]
-published: false
+published: true
 ---
 
 ![](https://frontierjs.herokuapp.com/ogp.png)
