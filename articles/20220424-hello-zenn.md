@@ -2,7 +2,8 @@
 title: "Webフロントエンドのプロを目指すためのコミュニティ - Frontier"
 emoji: "🙌"
 type: "idea"
-topics: ["techblog", "javascript", "html", "css", "フロントエンド"]
+topics:
+  ["techblog", "javascript", "コミュニティ", "エンジニア", "フロントエンド"]
 published: false
 ---
 
